@@ -5,4 +5,12 @@
 #### ① Boomers and Spitters only, but thier health, damage and speed are significantly increased.
 #### ② Less SI respawn interval and less Tank hp, also less survivor revival duration.
 #### ③ Survivors could be blown away by super Boomers.
-#### ④ No-tank-rush rules and tankrage freezing have already been abolished.
+#### ④ No-tank-rush rules and tankrage freezing rules have already been abolished.
+##
+## Chainsaw Massacre：
+### Four lunatics ran out, wielding chainsaws and eliminating all living creatures in their path. The pain won't stop them from running.
+#### ① No Boomers and Spitters.
+#### ② Less Tank hp, and less survivor revival duration.
+#### ③ Infinite chainsaw fuel and molotov.
+#### ④ No-tank-rush rules and tankrage freezing rules have already been abolished.
+#### ⑤ Survivors speed up, and they won't limp any more.
