@@ -14,3 +14,11 @@
 #### ③ Infinite chainsaw fuel and molotov.
 #### ④ No-tank-rush rules and tankrage freezing rules have already been abolished.
 #### ⑤ Survivors speed up, and they won't limp any more.
+##
+## Death's Door：
+### Both the survivors and the infected are vulnerable.
+#### ① Fall and die instantly.
+#### ② The health of the special infected is halved, and their damage is doubled.
+#### ③ The number and health of the commons are halved.
+#### ④ HB and PB only.
+#### ⑤ Survivors won't limp any more.
